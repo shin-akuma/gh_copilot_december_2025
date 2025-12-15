@@ -71,6 +71,49 @@ By the end of this workshop, you will be able to:
 4. Introduction to Prompt Engineering (Advanced)
 ```
 
+## 🧪 Hands-On Labs
+
+Practice your skills with these interactive labs:
+
+### Developer Labs (Microsoft Learning)
+
+1. **[Analyze Document Code](https://microsoftlearning.github.io/mslearn-github-copilot-dev/Instructions/Labs/LAB_AK_02_analyze_document_code.html)**
+   - Learn to analyze and document existing code with Copilot
+   - [📦 Download Lab Files](https://github.com/MicrosoftLearning/mslearn-github-copilot-dev/raw/refs/heads/main/DownloadableCodeProjects/Downloads/AZ2007LabAppM2.zip)
+
+2. **[Develop Code Features](https://microsoftlearning.github.io/mslearn-github-copilot-dev/Instructions/Labs/LAB_AK_03_develop_code_features.html)**
+   - Build new features using GitHub Copilot assistance
+   - [📦 Download Lab Files](https://github.com/MicrosoftLearning/mslearn-github-copilot-dev/raw/refs/heads/main/DownloadableCodeProjects/Downloads/AZ2007LabAppM3.zip)
+
+3. **[Develop Unit Tests with xUnit](https://microsoftlearning.github.io/mslearn-github-copilot-dev/Instructions/Labs/LAB_AK_04_develop_unit_tests_xunit.html)**
+   - Create comprehensive unit tests with Copilot
+   - [📦 Download Lab Files](https://github.com/MicrosoftLearning/mslearn-github-copilot-dev/raw/refs/heads/main/DownloadableCodeProjects/Downloads/AZ2007LabAppM4.zip)
+
+### Documentation Labs
+
+4. **[Generate Documentation Challenge](https://learn.microsoft.com/en-gb/training/modules/generate-documentation-using-github-copilot-tools/6-exercise-complete-code-documentation-challenge)**
+   - Master code documentation with GitHub Copilot tools
+   - Practice creating comprehensive documentation
+
+### Cloud Labs
+
+5. **[Interactive Cloud Lab Environment](https://experience.cloudlabs.ai/#/labguidepreview/f9fd80ac-fc1a-4609-a3f1-06650aec389e)**
+   - Hands-on practice in a fully provisioned cloud environment
+
+### Specialized Practice Repositories
+
+6. **[Copilot with Terraform](https://github.com/shin-akuma/copilot-terraform)**
+   - Infrastructure as Code with GitHub Copilot
+   - Terraform automation and best practices
+
+7. **[Copilot for Data Engineering](https://github.com/CleveritDemo/copilot-data-engineering/tree/main)**
+   - Data pipeline development
+   - ETL processes with Copilot assistance
+
+8. **[Copilot for ML & Data Ops](https://github.com/arinco-crew-community/copilot-ml-data-ops/tree/main)**
+   - Machine learning workflows
+   - Data operations automation
+
 ## 💡 Additional Resources
 
 - [GitHub Copilot Official Documentation](https://docs.github.com/en/copilot)
